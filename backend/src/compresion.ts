@@ -1,0 +1,1 @@
+// Para el caso de imagenes aqui ira la logica de compresion de imagenes .wpeg

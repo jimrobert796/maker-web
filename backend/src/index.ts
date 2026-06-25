@@ -1,7 +1,7 @@
 import express from "express";  // Importacion normal de js
 
 const app = express(); // Inicalizacion de variable/Objeto
-const PORT = 3001; // Puerto localhost:3000
+const PORT = 5000; // Puerto localhost:5000
 
 // Excepcion de typescript para ignorar un parametro _req
 app.get('/', (_req, res) =>{

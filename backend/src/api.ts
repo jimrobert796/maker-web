@@ -1,0 +1,1 @@
+// Aqui se agregaran las funcionalidades para cada caso de consulta para hacer metodos 
