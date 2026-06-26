@@ -1,14 +1,14 @@
 {
-  "name": "indoorview-web",
+  "name": "indoorview-web_backend",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/jimrobert796/maker-web#readme",
+  "homepage": "hthttps://github.com/jimrobert796/maker-web_Backend#readme",
   "bugs": {
-    "url": "https://github.com/jimrobert796/maker-web/issues"
+    "url": "https://github.com/jimrobert796/maker-web_Backend/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jimrobert796/maker-web.git"
+    "url": "https://github.com/jimrobert796/maker-web_Backend.git"
   },
   "license": "ISC",
   "author": "",
